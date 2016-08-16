@@ -1,0 +1,7 @@
+D:\Itanc Projects\Itanc.AspNetIdentity\bin\Debug\Itanc.AspNetIdentity.dll
+D:\Itanc Projects\Itanc.AspNetIdentity\bin\Debug\Itanc.AspNetIdentity.pdb
+D:\Itanc Projects\Itanc.AspNetIdentity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Itanc Projects\Itanc.AspNetIdentity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Itanc Projects\Itanc.AspNetIdentity\obj\Debug\Itanc.AspNetIdentity.dll
+D:\Itanc Projects\Itanc.AspNetIdentity\obj\Debug\Itanc.AspNetIdentity.pdb
+D:\Itanc Projects\Itanc.AspNetIdentity\obj\Debug\Itanc.AspNetIdentity.csprojResolveAssemblyReference.cache
